@@ -1,6 +1,6 @@
 ---
 more:
-  - name: News
+  - name: Newsblog
     ref: "/posts"
     icon: "notification"
   - name: "Auf Github"
