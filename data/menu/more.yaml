@@ -3,4 +3,11 @@ more:
   - name: News
     ref: "/posts"
     icon: "notification"
-
+  - name: "Auf Github"
+    ref: "https://github.com/Bingenberger/foss-schule"
+    external: true
+    icon: "github"
+  - name: "Auf Youtube"
+    ref: "https://www.youtube.com/channel/UCV9tgKiURvW5WkELgXN0t4Q"
+    external: true
+    icon: "youtube"  
