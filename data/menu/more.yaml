@@ -11,3 +11,8 @@ more:
     ref: "https://www.youtube.com/channel/UCV9tgKiURvW5WkELgXN0t4Q"
     external: true
     icon: "youtube"  
+ - name: "Auf Twitter"
+    ref: "https://www.youtube.com/channel/UCV9tgKiURvW5WkELgXN0t4Q"
+    external: true
+    icon: "tabler-brand-twitter" 
+
