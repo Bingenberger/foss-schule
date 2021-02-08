@@ -12,7 +12,7 @@ more:
     external: true
     icon: "youtube"  
  - name: "Auf Twitter"
-    ref: "https://www.youtube.com/channel/UCV9tgKiURvW5WkELgXN0t4Q"
+    ref: "https://www.twitter.com"
     external: true
     icon: "tabler-brand-twitter" 
 
