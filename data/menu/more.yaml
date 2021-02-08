@@ -1,0 +1,6 @@
+---
+more:
+  - name: News
+    ref: "/posts"
+    icon: "notification"
+
