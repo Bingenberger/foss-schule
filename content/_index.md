@@ -32,5 +32,5 @@ Mit der Verwendung von Open-Source-Software macht man sich unabhängig von den g
 </p>
 
 # in Schule
-Da da da
+Oftmals kann Open-Source-Software auch deutlich günstiger eingesetzt werden. Und immer dran denken: Wenn wir nicht mit Geld zahlen, dann zahlen wir bei den großen Anbiertern meist mit unseren Daten.
 {{< /columns >}}
