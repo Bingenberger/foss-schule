@@ -32,5 +32,5 @@ Mit der Verwendung von Open-Source-Software macht man sich unabhängig von den g
 </p>
 
 # in Schule
-Da
+Da da da
 {{< /columns >}}
