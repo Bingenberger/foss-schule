@@ -7,11 +7,4 @@ more:
     ref: "https://github.com/Bingenberger/foss-schule"
     external: true
     icon: "github"
-  - name: "Auf Youtube"
-    ref: "https://www.youtube.com/channel/UCV9tgKiURvW5WkELgXN0t4Q"
-    external: true
-    icon: "youtube"  
- - name: "Auf Twitter"
-    ref: "https://www.twitter.com"
-    external: true
 
