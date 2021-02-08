@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FOSS in Schule</title>
+    <link>https://foss-schule.de/</link>
+    <description>Recent content on FOSS in Schule</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 07 Feb 2021 20:53:36 +0100</lastBuildDate>
+    
+	<atom:link href="https://foss-schule.de/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Administration</title>
+      <link>https://foss-schule.de/moodle/Administration/</link>
+      <pubDate>Sun, 07 Feb 2021 20:53:36 +0100</pubDate>
+      
+      <guid>https://foss-schule.de/moodle/Administration/</guid>
+      <description>Darum geht es
+Damit die Arbeitsschritte in der Administration von Moodle bzw. Logineo LMS ein wenig leichter von Hand gehen, sind hier Videos zu den wichtigsten Bereichen gesammelt.     Kursbereichseinschreibung Edmond integrieren Rollen für Lehrkräfte verteilen Kursstruktur anlegen Nutzerimport mit Importtool Notenskalen einbauen Sandkiste anlegen Kursimport mit Kursliste Die Fußzeile ergänzen Troubleshooting: leere globale Gruppen Kurse verstecken Pushmitteilungen aktivieren Verknüpfung mit der Nextcloud herstellen Gastzugang einrichten SMTP Server tauschen Startseite einrichten Kalender importieren Kurseinschreibung mit globalen Gruppen     Kursbereichseinschreibung Neben der manuellen Einschreibung und der Einschreibung über globale Gruppen kann man Nutzer*innen auch über die Kursbereicheinschreibung automatisiert in Kurse einschreiben.</description>
+    </item>
+    
+    <item>
+      <title>H5P nutzen</title>
+      <link>https://foss-schule.de/moodle/H5P-nutzen/</link>
+      <pubDate>Sun, 07 Feb 2021 20:53:36 +0100</pubDate>
+      
+      <guid>https://foss-schule.de/moodle/H5P-nutzen/</guid>
+      <description>Darum geht es
+In Moodle/Logineo LMS ist mit H5P ein umfangreiches Autorentool integriert, mit dessen Hilfe sich schüler_innen-aktivierende Aufgabenformate erstellen lassen.     H5P-Übungen einfügen Adventskalender einrichten Dikate mit H5P Eine 360°-Schulführung mit H5P Troubleshooting: H5P Ergebnisse fehlen Dateien verwalten in H5P     H5P-Übungen einfügen In Logineo LMS kann man mit wenigen Klicks H5P-Übungen einfügen. Diese kann man entweder selbst erstellen, oder aus anderen Quellen importieren.</description>
+    </item>
+    
+    <item>
+      <title>Texte formatieren</title>
+      <link>https://foss-schule.de/moodle/text-formatieren/</link>
+      <pubDate>Sun, 07 Feb 2021 20:53:36 +0100</pubDate>
+      
+      <guid>https://foss-schule.de/moodle/text-formatieren/</guid>
+      <description>Darum geht es
+Textseiten innerhalb des LMS Moodle (auch Logineo LMS, Mebis etc.) lassen sich mit ein paar Kniffen und Handgriffen optisch ansprechend und didaktisch wertvoll gestalten. Hier sind ein paar dieser Ideen gesammelt.     Emojis einbinden Text mit Filtercodes personalisieren Textseiten mehrspaltig gestalten Textseiten mit iFrame-Einbindungen erweitern Texte mit der Grundschrift (oder anderen Schriften) gestalten Texte mit Gestaltungsvorlagen formatieren     Emojis einbinden Zur optischen Strukturierung von Kursen und Kursenmaterialien können Bilder und Icons eine hilfreiche Unterstützung sein.</description>
+    </item>
+    
+    <item>
+      <title>Troubleshooting</title>
+      <link>https://foss-schule.de/moodle/Troubleshooting/</link>
+      <pubDate>Sun, 07 Feb 2021 20:53:36 +0100</pubDate>
+      
+      <guid>https://foss-schule.de/moodle/Troubleshooting/</guid>
+      <description>Darum geht es
+Bei der Arbeit mit Moodle bzw. Logineo LMS tauchen mitunter auch Probleme auf, weil Moddle nicht wie erwartet reagiert. Diese Sammlung bietet Lösungen für häufig auftretende Probleme.     Probleme beim Audiofeedback H5P-Ergebnisse fehlen vergessene Passwörter Aus der Moodle-App ausloggen E-Mails kommen nicht an Schülerergebnisse am iPad annotieren     Probleme beim Audiofeedback Mit den integrierten Tools von Logineo LMS lässt sich mit wenigen Klicks Audiofeedback erstellen und an die Schüler*innen verteilen.</description>
+    </item>
+    
+    <item>
+      <title>Unterrichtsideen</title>
+      <link>https://foss-schule.de/moodle/unterrichtsideen/</link>
+      <pubDate>Sun, 07 Feb 2021 20:53:36 +0100</pubDate>
+      
+      <guid>https://foss-schule.de/moodle/unterrichtsideen/</guid>
+      <description>Darum geht es
+Moodle/Logineo LMS ist ein komplexes System, mit dem sich zahlreiche ausgeklügte Unterrichtssettings für Präsenz- und Distanzunterricht umsetzen lassen. Hier entsteht eine fortwährend wachsende Sammlung dieser Ideen     Learningapps einbinden Sprachförderung mit Glossaren Peerfeedback im Forum Edmond NRW integrieren Fotocollagen erstellen und sammeln Arbeitsergebnisse präsentieren Videos der Mediatheken nutzen     Learningapps einbinden Die Seite LearningApps.org kann man schon als Klassiker unter den digitalen Unterrichtsangeboten bezeichnen.</description>
+    </item>
+    
+    <item>
+      <title>Hallo Welt!</title>
+      <link>https://foss-schule.de/posts/hello_geekdoc/</link>
+      <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://foss-schule.de/posts/hello_geekdoc/</guid>
+      <description>Der erste Post im Blog von FOSS in Schule.</description>
+    </item>
+    
+    <item>
+      <title>Nextcloud</title>
+      <link>https://foss-schule.de/posts/initial-release/</link>
+      <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://foss-schule.de/posts/initial-release/</guid>
+      <description>Als erster Themenblock entstehen in den kommenden Tagen einige Videos zur Nutzung der Nextcloud. Parallel dazu werde ich die bereits bestehenden Videos zu LogineoLMS/Youtube einbinden.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://foss-schule.de/nextcloud/Terminvereinbarung/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://foss-schule.de/nextcloud/Terminvereinbarung/</guid>
+      <description>Mit Hilfe einer Nextcloud und der kostenlosen Erweiterung &amp;ldquo;Appointments&amp;rdquo; kann man in wenigen Schritten ein DSGVO-konformes Buchungssystem für Termin (z.B. Elternsprechtag oder Schulanmeldung) installiert werden. In diesem Video erkläre ich die einzelnen Schritte:
+ Ressourcen und Hinweise Appointments-App   Code zur Einbindung eines Datenschutzhinweises:
+&amp;lt;label for=&amp;quot;appt_gdpr_id&amp;quot;&amp;gt;Die Hinweise zum &amp;lt;/label&amp;gt;&amp;lt;a href=&amp;quot;LINK_ZUR_DATENSCHUTZERKLÄRUNG&amp;quot;&amp;gt;Datenschutz&amp;lt;/a&amp;gt;&amp;lt;label for=&amp;quot;appt_gdpr_id&amp;quot;&amp;gt; habe ich gelesen und akzeptiert.&amp;lt;/label&amp;gt; </description>
+    </item>
+    
+    <item>
+      <title>Datenschutz</title>
+      <link>https://foss-schule.de/datenschutz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://foss-schule.de/datenschutz/</guid>
+      <description>Datenschutzerklärung 1. Datenschutz auf einen Blick Allgemeine Hinweise Die folgenden Hinweise geben einen einfachen Überblick darüber, was mit Ihren personenbezogenen Daten passiert, wenn Sie diese Website besuchen. Personenbezogene Daten sind alle Daten, mit denen Sie persönlich identifiziert werden können. Ausführliche Informationen zum Thema Datenschutz entnehmen Sie unserer unter diesem Text aufgeführten Datenschutzerklärung.
+Datenerfassung auf dieser Website Wer ist verantwortlich für die Datenerfassung auf dieser Website? Die Datenverarbeitung auf dieser Website erfolgt durch den Websitebetreiber.</description>
+    </item>
+    
+    <item>
+      <title>Impressum</title>
+      <link>https://foss-schule.de/impressum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://foss-schule.de/impressum/</guid>
+      <description>Impressum Angaben gemäß § 5 TMG Florian Emrich Bingenberg 13 53773 Hennef
+Kontakt Telefon: 02242-9334189 E-Mail: florian@emrich.in
+Redaktionell Verantwortlicher Florian Emrich
+Haftung für Inhalte Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen.</description>
+    </item>
+    
+  </channel>
+</rss>

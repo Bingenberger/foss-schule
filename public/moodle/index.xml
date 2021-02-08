@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Moodle/Logineo LMS on FOSS in Schule</title>
+    <link>https://foss-schule.de/moodle/</link>
+    <description>Recent content in Moodle/Logineo LMS on FOSS in Schule</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 07 Feb 2021 20:53:36 +0100</lastBuildDate>
+    
+	<atom:link href="https://foss-schule.de/moodle/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Administration</title>
+      <link>https://foss-schule.de/moodle/Administration/</link>
+      <pubDate>Sun, 07 Feb 2021 20:53:36 +0100</pubDate>
+      
+      <guid>https://foss-schule.de/moodle/Administration/</guid>
+      <description>Darum geht es
+Damit die Arbeitsschritte in der Administration von Moodle bzw. Logineo LMS ein wenig leichter von Hand gehen, sind hier Videos zu den wichtigsten Bereichen gesammelt.     Kursbereichseinschreibung Edmond integrieren Rollen für Lehrkräfte verteilen Kursstruktur anlegen Nutzerimport mit Importtool Notenskalen einbauen Sandkiste anlegen Kursimport mit Kursliste Die Fußzeile ergänzen Troubleshooting: leere globale Gruppen Kurse verstecken Pushmitteilungen aktivieren Verknüpfung mit der Nextcloud herstellen Gastzugang einrichten SMTP Server tauschen Startseite einrichten Kalender importieren Kurseinschreibung mit globalen Gruppen     Kursbereichseinschreibung Neben der manuellen Einschreibung und der Einschreibung über globale Gruppen kann man Nutzer*innen auch über die Kursbereicheinschreibung automatisiert in Kurse einschreiben.</description>
+    </item>
+    
+    <item>
+      <title>H5P nutzen</title>
+      <link>https://foss-schule.de/moodle/H5P-nutzen/</link>
+      <pubDate>Sun, 07 Feb 2021 20:53:36 +0100</pubDate>
+      
+      <guid>https://foss-schule.de/moodle/H5P-nutzen/</guid>
+      <description>Darum geht es
+In Moodle/Logineo LMS ist mit H5P ein umfangreiches Autorentool integriert, mit dessen Hilfe sich schüler_innen-aktivierende Aufgabenformate erstellen lassen.     H5P-Übungen einfügen Adventskalender einrichten Dikate mit H5P Eine 360°-Schulführung mit H5P Troubleshooting: H5P Ergebnisse fehlen Dateien verwalten in H5P     H5P-Übungen einfügen In Logineo LMS kann man mit wenigen Klicks H5P-Übungen einfügen. Diese kann man entweder selbst erstellen, oder aus anderen Quellen importieren.</description>
+    </item>
+    
+    <item>
+      <title>Texte formatieren</title>
+      <link>https://foss-schule.de/moodle/text-formatieren/</link>
+      <pubDate>Sun, 07 Feb 2021 20:53:36 +0100</pubDate>
+      
+      <guid>https://foss-schule.de/moodle/text-formatieren/</guid>
+      <description>Darum geht es
+Textseiten innerhalb des LMS Moodle (auch Logineo LMS, Mebis etc.) lassen sich mit ein paar Kniffen und Handgriffen optisch ansprechend und didaktisch wertvoll gestalten. Hier sind ein paar dieser Ideen gesammelt.     Emojis einbinden Text mit Filtercodes personalisieren Textseiten mehrspaltig gestalten Textseiten mit iFrame-Einbindungen erweitern Texte mit der Grundschrift (oder anderen Schriften) gestalten Texte mit Gestaltungsvorlagen formatieren     Emojis einbinden Zur optischen Strukturierung von Kursen und Kursenmaterialien können Bilder und Icons eine hilfreiche Unterstützung sein.</description>
+    </item>
+    
+    <item>
+      <title>Troubleshooting</title>
+      <link>https://foss-schule.de/moodle/Troubleshooting/</link>
+      <pubDate>Sun, 07 Feb 2021 20:53:36 +0100</pubDate>
+      
+      <guid>https://foss-schule.de/moodle/Troubleshooting/</guid>
+      <description>Darum geht es
+Bei der Arbeit mit Moodle bzw. Logineo LMS tauchen mitunter auch Probleme auf, weil Moddle nicht wie erwartet reagiert. Diese Sammlung bietet Lösungen für häufig auftretende Probleme.     Probleme beim Audiofeedback H5P-Ergebnisse fehlen vergessene Passwörter Aus der Moodle-App ausloggen E-Mails kommen nicht an Schülerergebnisse am iPad annotieren     Probleme beim Audiofeedback Mit den integrierten Tools von Logineo LMS lässt sich mit wenigen Klicks Audiofeedback erstellen und an die Schüler*innen verteilen.</description>
+    </item>
+    
+    <item>
+      <title>Unterrichtsideen</title>
+      <link>https://foss-schule.de/moodle/unterrichtsideen/</link>
+      <pubDate>Sun, 07 Feb 2021 20:53:36 +0100</pubDate>
+      
+      <guid>https://foss-schule.de/moodle/unterrichtsideen/</guid>
+      <description>Darum geht es
+Moodle/Logineo LMS ist ein komplexes System, mit dem sich zahlreiche ausgeklügte Unterrichtssettings für Präsenz- und Distanzunterricht umsetzen lassen. Hier entsteht eine fortwährend wachsende Sammlung dieser Ideen     Learningapps einbinden Sprachförderung mit Glossaren Peerfeedback im Forum Edmond NRW integrieren Fotocollagen erstellen und sammeln Arbeitsergebnisse präsentieren Videos der Mediatheken nutzen     Learningapps einbinden Die Seite LearningApps.org kann man schon als Klassiker unter den digitalen Unterrichtsangeboten bezeichnen.</description>
+    </item>
+    
+  </channel>
+</rss>
