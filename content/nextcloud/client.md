@@ -1,9 +1,9 @@
 ---
-title: "Administration"
+title: "Client"
 date: 2021-02-07T20:53:36+01:00
 
 ---
-{{< hint alert >}}
+{{< hint danger >}}
 
 <img src="/images/alert_circle_outline.svg" height="80px"
      alt="info"
