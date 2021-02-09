@@ -12,7 +12,7 @@ more:
     external: true
     icon: "youtube"
   - name: "Auf Twitter"
-    ref: "https://twitter.com/Foss-schule"
+    ref: "https://twitter.com/FossSchule"
     external: true
     icon: "twitter"
     
