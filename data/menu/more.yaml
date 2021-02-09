@@ -10,10 +10,9 @@ more:
   - name: "Auf Youtube"
     ref: "https://www.youtube.com/channel/UCV9tgKiURvW5WkELgXN0t4Q"
     external: true
-    icon: "youtube"
- - name: "Auf Twitter"
+  - name: "Auf Twitter"
     ref: "https://twitter.com/Foss-schule"
     external: true
-    icon: "twitter"
+    
 
 
