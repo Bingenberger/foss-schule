@@ -5,7 +5,7 @@ date: 2021-02-07T20:53:36+01:00
 ---
 {{< hint danger >}}
 
-<img src="/images/alert_circle_outline.svg" height="80px"
+<img src="/images/alert-circle-outline.svg" height="80px"
      alt="info"
      style="float: left; margin-right: 10px;" />
 **Darum geht es**\
