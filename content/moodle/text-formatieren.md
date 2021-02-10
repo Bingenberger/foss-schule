@@ -69,3 +69,23 @@ Code für die Gestaltungsvorlage:
 Mit dem Atto-Editor von Logineo LMS lassen sich Texte mit grundlegende Funktionen formatieren. Für die erweiterte Textgestaltung, insbesondere für die Gestaltung von farbigen Hintergründen und Rahmen um Textabsätze bietet sich die Verwendung von Gestaltungsvorlagen an. Wie das funktioniert, erkläre ich in diesem Video.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_BZN3uW75Fc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+##ausklappbare Felder
+
+Ausklappbare Felder können zum Beispiel verwendet werden, um Lösungen oder Lösungshinweise in Aufgabenstellung einzubinden, aber vorerst zu verstecken.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/wHLHjku8s5U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Code zum Erzeugen der ausklappbaren Felder:
+```
+<p>
+    <a class="btn btn-primary" data-toggle="collapse" href="#collapsexample" role="button" aria-expanded="true" aria-controls="collapsexample">
+    Klick mich an!
+  </a>
+</p>
+<div class="collapse show" id="collapsexample" style="">
+    <div class="card card-body">
+        Sehet und staunet! Es funktioniert!
+    </div>
+</div>
+```
