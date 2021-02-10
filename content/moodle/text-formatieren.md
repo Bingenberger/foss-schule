@@ -70,7 +70,7 @@ Mit dem Atto-Editor von Logineo LMS lassen sich Texte mit grundlegende Funktione
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_BZN3uW75Fc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## <a id="Klappfeld"></a> ausklappbare Felder 
+## ausklappbare Felder 
 
 Ausklappbare Felder können zum Beispiel verwendet werden, um Lösungen oder Lösungshinweise in Aufgabenstellung einzubinden, aber vorerst zu verstecken.
 
