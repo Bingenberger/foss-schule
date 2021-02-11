@@ -12,10 +12,6 @@ date: 2021-02-07T20:53:36+01:00
  Moodle/Logineo LMS ist ein komplexes System, mit dem sich zahlreiche ausgeklügte Unterrichtssettings für Präsenz- und Distanzunterricht umsetzen lassen. Hier entsteht eine fortwährend wachsende Sammlung dieser Ideen
 {{< /hint >}}
 
-
-
-
-
 {{< toc >}}
 
 ## Learningapps einbinden
@@ -62,3 +58,22 @@ Rein technisch lassen sich in Logineo LMS sogar Videos aus den Mediatheken der �
 WICHTIG: Ob dies rechtlich zulässig ist, müsste ggf. durch einen Urheberrechtsexperten geklärt werden.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/lNeDaqp0DY8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Mathlearningcenter einbinden
+
+Auf der Seite [https://mathlearningcenter.org](https://mathlearningcenter.org) gibt es verschiedene Visualisierungen und Tools, die sich mit wenigen Schritten als IFrame-Einbung in Logineo LMS darstellen lassen. Dieses Video erklärt die hierzu notwendigen Schritte:
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/msC39hSlf4I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Arbeitsergebnisse präsentieren
+
+Arbeitsergebnisse der Schüler*innen - die man zum Beispiel über die Aktivität "Aufgabe" eingesammelt hat - kann man mit der Aktivität "Buch" wunderbar innerhalb eines Kurses präsentieren. Wie das geht? Na so:
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/VqBUiQVnLh4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Aktivitäten verlinken und verstecken
+
+Aktivitäten lassen sich in einem Kurs auch hinter Bildern oder Buttons verstecken. Dazu müssen die Aktivitäten in einem versteckten Bereich angelegt werden. Wie das geht? Na so:
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/RqjgjqdkZ_Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
