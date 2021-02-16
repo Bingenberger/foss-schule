@@ -12,10 +12,6 @@ date: 2021-02-07T20:53:36+01:00
  Damit die Arbeitsschritte in der Administration von Moodle bzw. Logineo LMS ein wenig leichter von Hand gehen, sind hier Videos zu den wichtigsten Bereichen gesammelt.
 {{< /hint >}}
 
-
-
-
-
 {{< toc >}}
 
 ## Kursbereichseinschreibung

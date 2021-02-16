@@ -12,10 +12,6 @@ date: 2021-02-07T20:53:36+01:00
  Bei der Arbeit mit Moodle bzw. Logineo LMS tauchen mitunter auch Probleme auf, weil Moddle nicht wie erwartet reagiert. Diese Sammlung bietet Lösungen für häufig auftretende Probleme.
 {{< /hint >}}
 
-
-
-
-
 {{< toc >}}
 
 ## Probleme beim Audiofeedback

@@ -12,10 +12,6 @@ date: 2021-02-07T20:53:36+01:00
  Textseiten innerhalb des LMS Moodle (auch Logineo LMS, Mebis etc.) lassen sich mit ein paar Kniffen und Handgriffen optisch ansprechend und didaktisch wertvoll gestalten. Hier sind ein paar dieser Ideen gesammelt.
 {{< /hint >}}
 
-
-
-
-
 {{< toc >}}
 
 ## Emojis einbinden
