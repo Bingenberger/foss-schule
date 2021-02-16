@@ -1,6 +1,8 @@
 Mit Hilfe einer Nextcloud und der kostenlosen Erweiterung "Appointments" kann man in wenigen Schritten ein DSGVO-konformes Buchungssystem für Termin (z.B. Elternsprechtag oder Schulanmeldung) installiert werden. In diesem Video erkläre ich die einzelnen Schritte:
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ZEkgmAwio2c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-container">
+<iframe sandbox="allow-same-origin allow-scripts allow-popups" src="https://tube.foss-schule.de/videos/embed/d9ac3e21-e0b0-4da8-8b20-452d4ab77e41?warningTitle=0" frameborder="0" allowfullscreen></iframe>
+</div>
 
 # Ressourcen und Hinweise
 {{< button href="https://apps.nextcloud.com/apps/appointments" >}}Appointments-App{{< /button >}}

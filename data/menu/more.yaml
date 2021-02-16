@@ -15,6 +15,10 @@ more:
     ref: "https://twitter.com/FossSchule"
     external: true
     icon: "twitter"
+  - name: "Peertube"
+    ref: "https://tube.foss-schule.de"
+    external: true
+    icon: "video"
     
 
 
