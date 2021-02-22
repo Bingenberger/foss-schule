@@ -1,3 +1,9 @@
+---
+title: "Terminvereinbarung"
+date: 2021-02-22T21:53:36+01:00
+weight: 5
+---
+
 Mit Hilfe einer Nextcloud und der kostenlosen Erweiterung "Appointments" kann man in wenigen Schritten ein DSGVO-konformes Buchungssystem für Termin (z.B. Elternsprechtag oder Schulanmeldung) installiert werden. In diesem Video erkläre ich die einzelnen Schritte:
 
 <div class="video-container">
